@@ -45,5 +45,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MangelCG94&count_private=true&theme=react&show_icons=true" alt="Readme stats image"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangelCG94&count_private=true" alt="Readme langs image"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangelCG94&count_private=true&theme=react" alt="Readme langs image"/>
 </p>
