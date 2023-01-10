@@ -38,4 +38,9 @@
 </p>
 
 ---
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MangelCG94&theme=react&show_icons=true)
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MangelCG94&theme=react&show_icons=true" alt="Sublime's custom image"/>
+</p>
+
