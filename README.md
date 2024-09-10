@@ -4,9 +4,7 @@
 
 ---
 
-- 💼 Full Stack and Testing.
-
-- 🌱 Currently learning Rust and Clojure.
+- 💼🌱 Full Stack Developer and Testing.
 
 ---
 
